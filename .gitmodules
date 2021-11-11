@@ -1,0 +1,3 @@
+[submodule "charts/shadowsocks-libev"]
+	path = shadowsocks-libev
+	url = git@github.com:feranwq/shadowsocks-libev-helm.git
